@@ -1,4 +1,4 @@
-package com.zifeng.pas;
+package com.mcggdd.pas;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

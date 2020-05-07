@@ -1,10 +1,8 @@
 package com.mcggdd.pas;
 
-import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@MapperScan("com.zifeng.pas.mapper")
 @SpringBootApplication
 public class PasApplication {
 
