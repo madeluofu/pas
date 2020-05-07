@@ -1,4 +1,4 @@
-package com.zifeng.pas;
+package com.mcggdd.pas;
 
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
