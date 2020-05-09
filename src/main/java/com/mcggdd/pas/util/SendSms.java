@@ -1,4 +1,4 @@
-package com.mcggdd.pas.utils;
+package com.mcggdd.pas.util;
 
 import com.tencentcloudapi.common.Credential;
 import com.tencentcloudapi.common.exception.TencentCloudSDKException;

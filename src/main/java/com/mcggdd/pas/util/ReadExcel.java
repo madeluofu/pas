@@ -1,4 +1,4 @@
-package com.mcggdd.pas.utils;
+package com.mcggdd.pas.util;
 
 // http://poi.apache.org/components/spreadsheet/quick-guide.html
 //1、HSSF支持.xls为后缀的二进制格式，并提供了流解析模式的HSSFListener相关API以及基于内存模型的HSSFWorkbook相关API。

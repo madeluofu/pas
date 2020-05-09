@@ -1,4 +1,4 @@
-package com.mcggdd.pas.utils;
+package com.mcggdd.pas.util;
 
 import java.io.FileInputStream;
 import java.io.IOException;

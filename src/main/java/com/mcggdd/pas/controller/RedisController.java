@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.mcggdd.pas.entity.UserEntity;
-import com.mcggdd.pas.utils.RedisUtil;
+import com.mcggdd.pas.util.RedisUtil;
 
 import lombok.extern.slf4j.Slf4j;
 
